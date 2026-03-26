@@ -44,8 +44,16 @@ export GROQ_API_KEY="your_api_key"
 
 ## 📷 Demo
 
-(Add screenshots here)
+<img width="767" height="500" alt="interface1" src="https://github.com/user-attachments/assets/7d67ff98-102b-4e1f-a26e-681d3e92eb6b" />
+<img width="767" height="500" alt="interface3" src="https://github.com/user-attachments/assets/98b42838-fd9d-4988-af33-cc3f2f4d4cb1" />
 
-## 👨‍💻 Author
 
-Jogendar Bairagi
+
+## 👨‍💻 Team Members
+
+* Jogendar Das Bairagi
+* ROSHAN BANKAR
+* VIVEK GANGRADE
+* MAAHI MAHESHWARI
+* SHUBHANGI PRAJAPAT
+
